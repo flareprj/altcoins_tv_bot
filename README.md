@@ -1,5 +1,5 @@
 # altcoins_tv_bot
-Многопоточный робот для торговли альткоинами, который использует линейные контракты биржи Bybit.
-Уведомления о сделках отправляются в телеграм-бот.
+A multi-threaded altcoin trading bot that uses Bybit exchange linear contracts.
+Trade notifications are sent to a Telegram bot.
 
-Стек технологий: **python 3.10, threading, pandas, requests, sqlalchemy, telebot**
+Technology stack: Python 3.10, threading, pandas, requests, SQLalchemy, Telebot
